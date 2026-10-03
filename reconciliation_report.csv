@@ -1,0 +1,11 @@
+check,reference,detail
+date,21,Grocery run
+amount,24,Coffee -> 12.50 CAD
+category,22,Bookstore -> Educaton
+category,23,Mystery charge -> None
+duplicate,"19,20",Spotify on 2026-09-25 (2 times)
+negative,25,Refund -> -30.0
+over_budget,Groceries,12.85 over the limit of 400.00
+over_budget,Education,99988.99 over the limit of 200.00
+over_budget,Entertainment,117.50 over the limit of 100.00
+reconcile,Summary!B5,reported net 2310 vs SQL net -97831.55
